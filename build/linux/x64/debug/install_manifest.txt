@@ -1,0 +1,14 @@
+/home/lee/Documents/E/Eliazer/egerecords/build/linux/x64/debug/bundle/egerecords
+/home/lee/Documents/E/Eliazer/egerecords/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/lee/Documents/E/Eliazer/egerecords/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/lee/Documents/E/Eliazer/egerecords/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/lee/Documents/E/Eliazer/egerecords/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/lee/Documents/E/Eliazer/egerecords/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/lee/Documents/E/Eliazer/egerecords/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/lee/Documents/E/Eliazer/egerecords/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/lee/Documents/E/Eliazer/egerecords/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/lee/Documents/E/Eliazer/egerecords/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/lee/Documents/E/Eliazer/egerecords/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/lee/Documents/E/Eliazer/egerecords/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/logo.png
+/home/lee/Documents/E/Eliazer/egerecords/build/linux/x64/debug/bundle/data/flutter_assets/assets/images/splash.png
+/home/lee/Documents/E/Eliazer/egerecords/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
